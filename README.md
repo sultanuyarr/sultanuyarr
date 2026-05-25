@@ -28,7 +28,7 @@ Temel makine öğrenmesi algoritmaları, sınıflandırma modelleri ve veri ön 
 
 ## 🛠️ Kullandığım Teknolojiler
 
-• C++, C#, Java, Dart  
+• C++, C#, Java, Flutter
 
 • HTML, CSS, JavaScript  
 
